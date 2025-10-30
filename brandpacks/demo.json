@@ -1,0 +1,8 @@
+{
+  "name": "Demo Brand",
+  "description": "Demo assistant.",
+  "greeting": "Hey! I’m your demo assistant. Ask about pricing or booking.",
+  "offerings": [{"name":"Consult", "price":"$100"}],
+  "booking": { "method": "link", "url": "https://example.com/book" },
+  "faqs": [{"q":"How fast?", "a":"Same day."}]
+}
